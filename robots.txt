@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /pepe-coin/
+Sitemap: https://pepe-coin.github.io/sitemap.xml
